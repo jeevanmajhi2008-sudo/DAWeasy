@@ -1,4 +1,4 @@
-DAWeasy ownership
+DAWeasy ownership( DAWeasy - https://daweasy.netlify.app)
 
 DAWeasy (the name, the design, the website code in index.html, and the product ideas in /ideas/ai-daw-ideas.md) was made for and belongs to J.ONE.
 
